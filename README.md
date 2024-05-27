@@ -6,7 +6,7 @@ all data saved in
 
     C:\Program Files(x86)\Bigovi Keylogger\LOGs\
 
-Some keys values :
+Some key values :
 
     Ctrl ------->  _ctrl_
     
